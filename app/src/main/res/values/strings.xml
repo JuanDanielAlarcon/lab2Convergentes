@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beer selected</string>
+
+    <string-array name="beer_taste">
+        <item>Tostado</item>
+        <item>Acaramelado</item>
+        <item>Nuez</item>
+        <item>Caffe</item>
+        <item>Herbales</item>
+        <item>Citricos</item>
+        <item>Ahumados</item>
+        <item>Chocolate</item>
+        <item>Malta</item>
+
+    </string-array>
+
+
+</resources>
